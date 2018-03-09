@@ -1,4 +1,4 @@
-#EC2 Instances
+# EC2 Instances
 
 Set of playbooks for creating ec2 instances for running POC's
 
